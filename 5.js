@@ -1,2 +1,2 @@
-const num = Math.floor(Math.random() * (20 - 10) + 10);
+const num = Math.floor(Math.random() * 10 + 10);
 console.log(num);
